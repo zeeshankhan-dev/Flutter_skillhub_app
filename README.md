@@ -1,16 +1,19 @@
-# sh
+# SkillHub – Freelance Platform App
 
-A new Flutter project.
+SkillHub is a cross-platform mobile application developed as my final year project using Flutter and Firebase. The app connects clients with professionals, allowing them to post jobs, submit proposals, and manage projects.
 
-## Getting Started
+## 🔧 Technologies Used
+- Flutter & Dart
+- Firebase Authentication
+- Cloud Firestore
+- Role-based dashboards (Client & Professional)
+- UI/UX built with custom widgets and themes
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+(Upload 1–2 screenshots if possible)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Status
+MVP completed – continuously improving UI and features.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Author
+**Zeeshan Khan** – Computer Science Graduate – [LinkedIn](https://www.linkedin.com/in/zeeshan-khan-775487319)
