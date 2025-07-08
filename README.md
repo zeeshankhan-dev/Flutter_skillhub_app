@@ -9,9 +9,6 @@ SkillHub is a cross-platform mobile application developed as my final year proje
 - Role-based dashboards (Client & Professional)
 - UI/UX built with custom widgets and themes
 
-## 📸 Screenshots
-(Upload 1–2 screenshots if possible)
-
 ## 🚀 Status
 MVP completed – continuously improving UI and features.
 
