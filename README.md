@@ -32,7 +32,7 @@ SkillHub is a cross-platform freelance marketplace built with Flutter and Fireba
 
 ## 📸 Screenshots
 
-> Coming soon…
+> Coming soon….
 
 ---
 
